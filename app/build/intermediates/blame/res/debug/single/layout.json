@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hugo/Downloads/Advanced_Android_App_Architecture_v1.0_Source_Code/11-mvvm-sample-data-binding/starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie_search.xml",
+        "source": "/Users/hugo/Downloads/Advanced_Android_App_Architecture_v1.0_Source_Code/11-mvvm-sample-data-binding/starter/app/src/main/res/layout/item_movie_search.xml"
+    },
+    {
+        "merged": "/Users/hugo/Downloads/Advanced_Android_App_Architecture_v1.0_Source_Code/11-mvvm-sample-data-binding/starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_add.xml",
+        "source": "/Users/hugo/Downloads/Advanced_Android_App_Architecture_v1.0_Source_Code/11-mvvm-sample-data-binding/starter/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/Users/hugo/Downloads/Advanced_Android_App_Architecture_v1.0_Source_Code/11-mvvm-sample-data-binding/starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie_main.xml",
+        "source": "/Users/hugo/Downloads/Advanced_Android_App_Architecture_v1.0_Source_Code/11-mvvm-sample-data-binding/starter/app/src/main/res/layout/item_movie_main.xml"
+    }
+]
